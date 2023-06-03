@@ -1,0 +1,12 @@
+.container
+{
+    border-radius: 20px;
+    padding: 2px;
+}
+
+.logb
+{
+    position: relative; top: 20px;
+    align-items: center;
+}
+
